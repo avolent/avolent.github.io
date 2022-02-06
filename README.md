@@ -8,3 +8,4 @@ Just a personal website for fun to track and advertise all my projects.
 - [ ] Skills Section
 - [ ] Education Section
 - [ ] Improve Github links with icon next to heading
+- [ ] Checklist for my 2022 goals.
